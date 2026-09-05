@@ -2,7 +2,9 @@
 
 Free auto-farm and raid macro for Anime Expeditions - repeats your recorded run on a loop while AFK. Windows 10/11, small installer.
 
-**[⬇ Download for Windows](https://github.com/OWNER/anime-expeditions-macro/releases/latest)** · [Website](https://animeexpeditionsmacro.com)
+**[⬇ Download for Windows](https://github.com/opulentgrip/anime-expeditions-macro/releases/latest)** · [Website](https://animeexpeditionsmacro.com)
+
+![Anime Expeditions Macro](AnimeExpeditionsMacro.png)
 
 ---
 
@@ -23,7 +25,7 @@ Press record, play the raid the way you normally would, press stop - and it loop
 
 ## Install
 
-1. Download the latest release: **[Anime Expeditions Macro](https://github.com/OWNER/anime-expeditions-macro/releases/latest)**
+1. Download the latest release: **[Anime Expeditions Macro](https://github.com/opulentgrip/anime-expeditions-macro/releases/latest)**
 2. Run the installer. No admin rights, no extra components.
 3. Start it from the Start menu.
 
